@@ -12,7 +12,13 @@
   <h2>🎓 Education</h2>
   <ul>
     <li><strong>BS in Computer Science</strong><br>
-        New Era University, 2023 - Present</li>
+        New Era University, 2020 - Present</li>
+    <li><strong>Senior High, ICT Strand</strong><br>
+        Bestlink College of the Philippines, 2018 - 2020</li>
+    <li><strong>Junior High</strong><br>
+        Maligaya High School, 2014 - 2018</li>
+    <li><strong>Elementary</strong><br>
+        Maligaya Elementary School, 2008 - 2014</li>
   </ul>
 
   <h2>📜 Certifications</h2>
