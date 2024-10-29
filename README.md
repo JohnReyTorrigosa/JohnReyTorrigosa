@@ -17,7 +17,7 @@
 
   <h2>📜 Certifications</h2>
   <ul>
-    <li><strong><a href="verify.mygreatlearning.com/ZURFMQRR" target="_blank">Data Analytics using Excel</a></strong></li>
+    <li><strong><a href="https://verify.mygreatlearning.com/ZURFMQRR" target="_blank">Data Analytics using Excel</a></strong></li>
   </ul>
 
   <h2>🛠️ Skill Sets</h2>
