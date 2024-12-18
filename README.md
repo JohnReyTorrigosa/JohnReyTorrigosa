@@ -26,6 +26,7 @@
     <li><strong><a href="https://courses.cognitiveclass.ai/certificates/c68dc8c535da45e88fa8cbd808142472" target="_blank">SQL and Relational Databases 101</a></strong></li>
     <li><strong><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0C8DB8E4A4CA269BC1543D99AFF3163A9A893518E40D73071B064F522A21F8A3" target="_blank">Oracle Cloud Infrastructure 2024 Foundations Associate</a></strong></li>
     <li><strong><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0C8DB8E4A4CA269BC1543D99AFF3163AC34D882829FA4F0BEDE92D2A317409AB" target="_blank">Oracle Cloud Infrastructure 2024 Data Foundations Associate</a></strong></li>
+    <li><strong><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0C8DB8E4A4CA269BC1543D99AFF3163AC34D882829FA4F0BEDE92D2A317409AB" target="_blank">Oracle Cloud Infrastructure 2024 AI Foundations Associate</a></strong></li>
     <li><strong><a href="https://verify.mygreatlearning.com/ZURFMQRR" target="_blank">Data Analytics using Excel</a></strong></li>
   </ul>
 
